@@ -1,6 +1,6 @@
 {
 	"classtype": "kWindow",
-	"internalversion": 2,
+	"internalversion": 3,
 	"nextident": 1016,
 	"lastgroupident": 0,
 	"cvardefs": [
@@ -53,7 +53,7 @@
 		"menunames": "",
 		"minimizebox": false,
 		"minimizeiconid": 2006,
-		"moddate": "2017-10-24 04:27:03",
+		"moddate": "2017-10-24 06:06:46",
 		"modelessdata": true,
 		"showascheckedout": false,
 		"showcommands": false,
