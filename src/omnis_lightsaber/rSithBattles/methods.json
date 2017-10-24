@@ -22,7 +22,7 @@
 		]
 	},
 	{
-		"name": "$_openCrystalComparment",
+		"name": "New Method",
 		"ident": 0,
 		"order": 3,
 		"pvardefs": [

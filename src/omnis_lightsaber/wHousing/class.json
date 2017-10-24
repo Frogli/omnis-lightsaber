@@ -1,6 +1,6 @@
 {
 	"classtype": "kObjectclass",
-	"internalversion": 2,
+	"internalversion": 3,
 	"cvardefs": [
 
 	],
@@ -18,7 +18,7 @@
 		"editordata": "",
 		"external": true,
 		"issupercomponent": false,
-		"moddate": "2017-10-24 04:27:12",
+		"moddate": "2017-10-24 06:00:34",
 		"selfcontained": false,
 		"showascheckedout": false,
 		"userinfo": "",
